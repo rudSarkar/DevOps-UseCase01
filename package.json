@@ -1,0 +1,14 @@
+{
+  "name": "devops-usecase01",
+  "version": "1.0.0",
+  "description": "Working with basic use case of devops",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudra Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
