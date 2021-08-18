@@ -13,7 +13,7 @@ node {
     }
 
     stage('Build image') {
-        app = docker.build('rudr4sarkar/nodeapp')
+        app = docker.build('rudr4sarkar/DevOps-UseCase01')
     }
 
     stage('Push image') {
